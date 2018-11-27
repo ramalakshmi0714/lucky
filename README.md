@@ -1,0 +1,2 @@
+# lucky
+student management system
